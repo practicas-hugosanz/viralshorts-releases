@@ -39,6 +39,7 @@ Todo se hace **en tu ordenador**: no hace falta cuenta ni suscripción. Con una 
 - **Elegir bien**: preselección por *most replayed* y energía del audio, para no transcribir un pódcast de 3 horas entero; arranca donde empieza el tema; modo *revisar antes de montar*.
 - **Montar bien**: reencuadre que sigue la cara, recorte de silencios, subtítulos con la palabra activa resaltada y aceleración por tarjeta gráfica cuando la hay.
 - **Hacerlo tuyo**: composición (dividido, solo el pódcast o en el centro), cinco estilos de subtítulos, tu logo y tu usuario, y perfiles de ajustes con nombre.
+- **Antes de montar**: corrige el texto de los subtítulos, recorta cada clip y elige su estilo; añade música que baja sola cuando habla alguien y una barra de progreso.
 - **Acertar más con el texto**: afina los clips elegidos con un modelo de voz mayor, con nombres difíciles y correcciones fijas.
 - **Cómodo**: aplicación de escritorio con instalador, transcripción en directo, cola de trabajos, biblioteca con búsqueda y actualizaciones automáticas.
 

@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/practicas-hugosanz/viralshorts-releases/releases/latest"><img src="https://img.shields.io/github/v/release/practicas-hugosanz/viralshorts-releases?label=versi%C3%B3n&color=ff7a1a" alt="Última versión"></a>
+  <a href="https://github.com/practicas-hugosanz/viralshorts-releases/releases/latest"><img src="https://img.shields.io/github/v/release/practicas-hugosanz/viralshorts-releases?label=versi%C3%B3n&color=ff0033" alt="Última versión"></a>
   <a href="https://github.com/practicas-hugosanz/viralshorts-releases/releases"><img src="https://img.shields.io/github/downloads/practicas-hugosanz/viralshorts-releases/total?label=descargas&color=1f6feb" alt="Descargas"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-1f6feb" alt="Windows 10 y 11">
   <img src="https://img.shields.io/badge/se%20ejecuta-en%20tu%20ordenador-3ddc97" alt="Se ejecuta en tu ordenador">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/img/crear.png" alt="Pantalla Crear de Viral Shorts, con la vista previa 9:16 y la lista «Antes de generar» a la derecha" width="900">
+  <img src="docs/img/crear.png" alt="Pantalla Crear de Viral Shorts, con los tres pasos y la vista previa" width="900">
 </p>
 
 ## Qué es
@@ -39,42 +39,42 @@ Todo se hace **en tu ordenador**: no hace falta cuenta ni suscripción. Con una 
 **Elegir bien**
 - Preselección por *most replayed* de YouTube y energía del audio: solo se transcribe lo que importa, así un pódcast de 3 horas no tarda 3 horas.
 - Empieza donde empieza el tema, no a media frase.
-- **Elegir yo los momentos**: ves todos los candidatos y marcas cuáles se montan.
+- **Elegir yo los momentos**: el vídeo entero en un editor con línea de tiempo y los mejores momentos sugeridos. Cada trozo que marcas es un short.
 
 **Montar bien**
-- Reencuadre que sigue la cara de quien habla y recorte de silencios.
-- Subtítulos palabra a palabra con la palabra activa resaltada, y las palabrotas tapadas si quieres.
-- Aceleración por tarjeta gráfica **NVIDIA, AMD o Intel**, también para transcribir: con una AMD RX 6600 va de 2,8 a 4,9 veces más rápido que con el procesador.
-- **Dos personas en pantalla partida**: si salen las dos a la vez, una arriba y otra abajo, y la palabra que suena va del color de quien la dice.
+- Reencuadre que sigue la cara de quien habla y recorte de silencios (a elegir en los trozos que marcas tú).
+- Subtítulos palabra a palabra con la palabra activa resaltada, y las palabrotas tapadas si quieres. Sin frases inventadas en los silencios.
+- Aceleración por tarjeta gráfica **NVIDIA, AMD o Intel**, también para transcribir.
+- **Dos personas en pantalla partida**, y **Encajar**: el vídeo entero sin recortar, sobre una copia difuminada, ideal para grabaciones de pantalla.
 
 **Hacerlo tuyo**
-- **Plantillas** de un clic y **composición** a elegir: dividido, solo el pódcast, en el centro o dos personas.
-- **Cinco estilos de subtítulos**, tu logo y tu usuario, formatos 9:16, 4:5 y 1:1, efectos de sonido, portada con el gancho y pantalla final.
-- **Subtítulos en otro idioma** y **emojis según lo que se dice** («dinero» 💰, «miedo» 😱, «jajaja» 😂…).
-- **Varios vídeos de fondo** que se van turnando entre shorts, y música que baja sola cuando habla alguien.
-- **Antes de montar**: corrige el texto de los subtítulos, recorta cada clip y elige su estilo.
+- **Plantillas** de un clic y **vista previa real** con tu vídeo, tus subtítulos y tu marca.
+- **Cinco estilos de subtítulos** (o ninguno), tu logo y tu usuario, formatos 9:16, 4:5 y 1:1, efectos de sonido, portada con el gancho y pantalla final.
+- **Subtítulos en otro idioma** y **emojis según lo que se dice**.
+- **Varios vídeos de fondo** que se turnan, y música que baja sola cuando habla alguien.
 - **Para editar fuera**: los subtítulos en `.srt` y el mismo short sin ningún texto encima.
 
 **Cómodo de usar**
-- Aplicación de escritorio con instalador y cuatro apartados claros: **Crear**, **En curso**, **Mis shorts** y **Ajustes**.
-- Transcripción en directo, cola de trabajos y biblioteca de todos tus shorts con búsqueda.
-- **Sube a YouTube Shorts** con un clic, con su título, texto y hashtags.
+- **Retoca un short ya hecho** en el editor: la parte elegida, los subtítulos frase a frase, el estilo y el título. Se rehace solo ese, y se puede deshacer.
+- Un vídeo corto se adapta solo: sale entero en un short.
+- **Sube a YouTube Shorts** con un clic, o **prográmalos** para que se publiquen solos.
 - **Sigue canales**: cuando publican un episodio nuevo, se pone en la cola solo.
+- Transcripción en directo, cuánto queda, cola de trabajos, aviso al terminar y biblioteca con búsqueda.
 - Borra el vídeo descargado al terminar para no llenar el disco, y se actualiza sola.
 
 ## Capturas
 
 <table>
   <tr>
-    <td width="50%"><img src="docs/img/en-curso.png" alt="Progreso por pasos con la transcripción en directo y la cola"><br><sub><b>En curso.</b> Cada paso, la transcripción en directo y la cola de trabajos.</sub></td>
-    <td width="50%"><img src="docs/img/revision.png" alt="Revisión de los momentos encontrados"><br><sub><b>Revisión.</b> Marca los momentos que valen y corrige títulos y ganchos.</sub></td>
+    <td width="50%"><img src="docs/img/editor.png" alt="Editor con el vídeo, la línea de tiempo y los trozos elegidos"><br><sub><b>Editor.</b> Elige los trozos en una línea de tiempo, o retoca un short ya hecho: la parte elegida y los subtítulos, frase a frase.</sub></td>
+    <td width="50%"><img src="docs/img/en-curso.png" alt="Progreso por pasos con la transcripción en directo"><br><sub><b>En curso.</b> Cada paso, cuánto queda, la transcripción en directo y la cola de trabajos.</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="docs/img/mis-shorts.png" alt="Biblioteca de shorts con búsqueda"><br><sub><b>Mis shorts.</b> Todo lo generado, con búsqueda, título editable y texto para copiar.</sub></td>
-    <td width="50%"><img src="docs/img/ajustes.png" alt="Ajustes agrupados por apartados"><br><sub><b>Ajustes.</b> Lo que normalmente no hace falta tocar, por apartados: YouTube, canales, tarjeta gráfica…</sub></td>
+    <td width="50%"><img src="docs/img/mis-shorts.png" alt="Biblioteca de shorts"><br><sub><b>Mis shorts.</b> Todo lo generado, listo para retocar, copiar el texto o subir a YouTube.</sub></td>
+    <td width="50%"><img src="docs/img/ajustes.png" alt="Ajustes por apartados, con índice y buscador"><br><sub><b>Ajustes.</b> Lo que normalmente no hace falta tocar, por apartados y con buscador.</sub></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="docs/img/crear-oscuro.png" alt="Tema oscuro con la composición Dos personas y subtítulos neón"><br><sub><b>Tema claro u oscuro</b>, según tu Windows. Aquí, la composición <i>Dos personas</i> con subtítulos neón.</sub></td>
+    <td colspan="2"><img src="docs/img/crear-oscuro.png" alt="Pantalla Crear en tema oscuro"><br><sub><b>Tema claro u oscuro</b>, según tu Windows.</sub></td>
   </tr>
 </table>
 
@@ -90,11 +90,11 @@ Todo se hace **en tu ordenador**: no hace falta cuenta ni suscripción. Con una 
 
 ## Tu primer short
 
-1. En **Crear**, pega el enlace del pódcast y el del vídeo de fondo.
-2. Elige cuántos shorts quieres, cuánto duran y cuánto cuidado con el texto (*Equilibrado* va bien para empezar). Si quieres, cambia el aspecto en la pestaña **Aspecto**.
-3. Pulsa **Generar** (el botón dice cuántos: «Generar 3 shorts») y mira cómo avanza en **En curso**. Cuando termina, están en **Mis shorts**.
+1. En **Crear**, pega el enlace del vídeo o elige un archivo.
+2. Elige una plantilla. Si la que eliges usa vídeo de fondo (un gameplay, por ejemplo), pega también su enlace; si no, ni te lo pide. A la derecha ves cómo quedará.
+3. Di cuántos shorts quieres y de qué duración, y pulsa **Generar** (el botón dice cuántos: «Generar 3 shorts»). Lo ves avanzar en **En curso** y, al terminar, están en **Mis shorts**.
 
-Si prefieres decidir tú qué momentos se montan, usa **Elegir yo los momentos**.
+¿Quieres afinar más? **Personalizar el aspecto** y **Texto e idioma** están plegados debajo. Y si prefieres decidir tú qué trozos se montan, usa **Elegir yo los momentos**: se abre el **Editor** con el vídeo y su línea de tiempo, con los mejores momentos sugeridos en verde. Marca el inicio y el final con los botones, con las teclas I y O o arrastrando sobre la onda, pulsa **Seleccionar este trozo** y, cuando tengas los que quieras, **Montar**.
 
 ## Actualizaciones
 

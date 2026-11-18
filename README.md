@@ -40,24 +40,27 @@ Todo se hace **en tu ordenador**: no hace falta cuenta ni suscripción. Con una 
 - Preselección por *most replayed* de YouTube y energía del audio: solo se transcribe lo que importa, así un pódcast de 3 horas no tarda 3 horas.
 - Empieza donde empieza el tema, no a media frase.
 - **Elegir yo los momentos**: el vídeo entero en un editor con línea de tiempo y los mejores momentos sugeridos. Cada trozo que marcas es un short.
+- Títulos y textos con **Claude** o con **un modelo en tu ordenador** (Ollama o LM Studio), gratis y sin conexión.
 
 **Montar bien**
-- Reencuadre que sigue la cara de quien habla y recorte de silencios (a elegir en los trozos que marcas tú).
+- Reencuadre que sigue la cara de quien habla y salta con los cambios de plano, y recorte de silencios (a elegir en los trozos que marcas tú).
+- **Quita los subtítulos que ya trae el vídeo**, para que no salgan dos capas de texto.
 - Subtítulos palabra a palabra con la palabra activa resaltada, y las palabrotas tapadas si quieres. Sin frases inventadas en los silencios.
 - Aceleración por tarjeta gráfica **NVIDIA, AMD o Intel**, también para transcribir.
-- **Dos personas en pantalla partida**, y **Encajar**: el vídeo entero sin recortar, sobre una copia difuminada, ideal para grabaciones de pantalla.
+- **Dos personas en pantalla partida** (solo en los planos donde salen las dos), **Streamer** (la facecam arriba y la partida abajo) y **Encajar**: el vídeo entero sin recortar, sobre una copia difuminada, ideal para grabaciones de pantalla.
 
 **Hacerlo tuyo**
 - **Plantillas** de un clic y **vista previa real** con tu vídeo, tus subtítulos y tu marca.
 - **Cinco estilos de subtítulos** (o ninguno), tu logo y tu usuario, formatos 9:16, 4:5 y 1:1, efectos de sonido, portada con el gancho y pantalla final.
+- **Gancho** que se coloca solo donde no tapa caras ni subtítulos, o donde digas.
 - **Subtítulos en otro idioma** y **emojis según lo que se dice**.
 - **Varios vídeos de fondo** que se turnan, y música que baja sola cuando habla alguien.
 - **Para editar fuera**: los subtítulos en `.srt` y el mismo short sin ningún texto encima.
 
 **Cómodo de usar**
-- **Retoca un short ya hecho** en el editor: la parte elegida, los subtítulos frase a frase, el estilo y el título. Se rehace solo ese, y se puede deshacer.
+- **Retoca un short ya hecho** en el editor: la parte elegida (también arrastrando sobre lo que se dice), los subtítulos frase a frase, el estilo y el título. Se rehace solo ese, y se puede deshacer.
 - Un vídeo corto se adapta solo: sale entero en un short.
-- **Sube a YouTube Shorts** con un clic, o **prográmalos** para que se publiquen solos.
+- **Sube a YouTube Shorts** con un clic, o **prográmalos** para que se publiquen solos: varios a la vez, eligiendo cuáles y a qué ritmo.
 - **Sigue canales**: cuando publican un episodio nuevo, se pone en la cola solo.
 - Transcripción en directo, cuánto queda, cola de trabajos, aviso al terminar y biblioteca con búsqueda.
 - Borra el vídeo descargado al terminar para no llenar el disco, y se actualiza sola.
